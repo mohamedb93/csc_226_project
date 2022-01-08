@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+</head>
+
+<body>
+
+<center><h1><mark>Mohamed Bassimbo CSC226</h1></mark></center>
+<hr>
+<h2>Home Page</h2>
+<a href="lab1.html"> lab1</a><br>
+<a href="lab2.html"> lab2</a>
+<center><img src="mohamedpic.jpg" alt="mohamed" width="200" height="200"></center>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+<a href="https:www.linkedin.com/in/mohamed-bassimbo-56322619a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfgD29G4nSiaOnMFDCHj8oQ%3D%3D"> My linkedn page</a>
+<br>
+<a href="lab1.html"> Go to next page</a>
+
+
+</body>
+</html>
