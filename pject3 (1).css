@@ -1,0 +1,76 @@
+body{
+    background-color: lightgreen;
+  }
+  h2{
+    color:Red;
+    text-shadow: 2px 2px 4px #000000;
+  }
+
+  .box {
+      position:relative;
+  }
+  
+  div:not(.btn-group) {
+    padding:80px;
+    border-radius: 10px;
+    background-color: darkblue;
+    margin: auto;
+    width:50%;
+    height:50px;
+  }
+
+  input {
+    height:40px;
+    border-radius: 8px;
+    padding: 5px;
+    position:absolute;
+    left:25%;
+    width:50%;
+  }
+  
+  button{
+    background-color: gray;
+  }
+
+  
+
+  #Submit_guess {
+      position:absolute;
+      top:41%;
+      width:300px;
+      height:50px;
+      left:42%;
+  }
+
+ .box > p {
+     background-color: yellow;
+     position:absolute;
+     top:70%;
+     left:16%;
+     width:70%;
+     height:60px;
+     text-align:center;
+     padding-top:10px;
+     padding-bottom:10px;
+     font-size:20px;
+ }
+
+ #submitHistory {
+     background-color:yellow;
+     width:200px;
+     height:20px;
+    margin-bottom:30px;
+ }
+
+ .btn-group {
+     background-color:darkblue;
+     padding:10px;
+     position:relative;
+     left:20.8%;
+     border-radius:10px;
+     width:57.5%;
+ }
+
+
+
+ 
