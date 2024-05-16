@@ -1,1 +1,1 @@
-# https://mohamedb93.github.io
+# csc_226_project
